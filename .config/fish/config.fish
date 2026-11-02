@@ -8,3 +8,4 @@ export DOTNET_ROOT=/home/linuxbrew/.linuxbrew/opt/dotnet/libexec
 alias vim=nvim
 # starship init
 starship init fish | source
+export EDITOR=/home/linuxbrew/.linuxbrew/bin/nvim
