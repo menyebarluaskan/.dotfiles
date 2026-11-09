@@ -9,3 +9,6 @@ alias vim=nvim
 # starship init
 starship init fish | source
 export EDITOR=/home/linuxbrew/.linuxbrew/bin/nvim
+
+# Hermes Agent command
+fish_add_path "$HOME/.local/bin"
